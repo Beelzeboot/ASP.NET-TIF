@@ -1,0 +1,6 @@
+F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\Entidades\bin\Debug\Entidades.dll
+F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\Entidades\bin\Debug\Entidades.pdb
+F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\Entidades\obj\Debug\Entidades.dll
+F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\Entidades\obj\Debug\Entidades.pdb
