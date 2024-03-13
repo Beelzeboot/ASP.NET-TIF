@@ -1,9 +1,0 @@
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\bin\Debug\DAO.dll
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\bin\Debug\DAO.pdb
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\bin\Debug\Entidades.dll
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\bin\Debug\Entidades.pdb
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\obj\Debug\DAO.csproj.CopyComplete
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\obj\Debug\DAO.dll
-F:\Programación 3\Trabajo Integrador\TIF_Grupo_12\DAO\obj\Debug\DAO.pdb
